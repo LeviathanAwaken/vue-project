@@ -1,4 +1,4 @@
-# Vue work
+# Vue with webpack and other stuffs
 
 Used
 - Vue.js
